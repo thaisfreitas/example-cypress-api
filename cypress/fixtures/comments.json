@@ -1,0 +1,15 @@
+{
+  "validComment": {
+    "postId": 1,
+    "name": "Test Comment",
+    "email": "test@example.com",
+    "body": "This is a test comment body."
+  },
+  "updateComment": {
+    "postId": 1,
+    "name": "Updated Comment",
+    "email": "updated@example.com",
+    "body": "This comment has been updated."
+  }
+}
+

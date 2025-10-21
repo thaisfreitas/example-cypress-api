@@ -1,0 +1,18 @@
+{
+  "validTodo": {
+    "title": "Test TODO item",
+    "completed": false,
+    "userId": 1
+  },
+  "completedTodo": {
+    "title": "Completed TODO item",
+    "completed": true,
+    "userId": 1
+  },
+  "updateTodo": {
+    "title": "Updated TODO item",
+    "completed": true,
+    "userId": 1
+  }
+}
+
